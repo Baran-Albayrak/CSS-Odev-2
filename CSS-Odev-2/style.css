@@ -1,0 +1,90 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.motto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.arama {
+    width: 120vh;
+    height: 20px;
+}
+
+.btn-1 {
+    
+    background-color: blueviolet;
+}
+
+.btn-2 {
+    margin-left: 5px;
+    background-color: aqua;
+}
+.btn-kap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gri-kap {
+    background-color: lightgray;
+    margin: 0 100px 0 100px;
+}
+
+.Special {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-right: 3px;
+    background-color: #7EE5DA;
+    width: 310px;
+    height: 100px;
+    padding: 10px;
+}
+
+.help {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    background-color: #7EE5DA;
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+}
+
+.mail {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-left: 3px;
+    background-color: #7EE5DA;
+    width: 325px;
+    padding: 10px;
+    height: 100px;
+} 
+
+.yan-yana {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.last {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+} 
